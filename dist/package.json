@@ -1,0 +1,19 @@
+{
+    "name": "node-bundle-starter",
+    "version": "1.0.0",
+    "description": "Node Starter Kit with babel & webpack",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/riefive/node-bundle-starter.git"
+    },
+    "keywords": [
+        "bundle"
+    ],
+    "author": "riefive",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/riefive/node-bundle-starter/issues"
+    },
+    "homepage": "https://github.com/riefive/node-bundle-starter#readme"
+}
