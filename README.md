@@ -9,8 +9,8 @@ Bundle with babel & webpack
 - **npm run server** => testing bundle.js
 
 ## Use the Project
-- $ git clone https://github.com/riefive/node-bundle-starter.git [target-name]
-- $ cd [target-name]
-- $ npm install
-- $ npm start
-- $ npm run server
+- git clone https://github.com/riefive/node-bundle-starter.git [target-name]
+- cd [target-name]
+- npm install
+- npm start
+- npm run server
